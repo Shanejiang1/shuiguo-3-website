@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shuiguo-3-website/static/css/main.9c0c52cc.chunk.css",
+    "main.js": "/shuiguo-3-website/static/js/main.8b01503c.chunk.js",
+    "main.js.map": "/shuiguo-3-website/static/js/main.8b01503c.chunk.js.map",
+    "runtime-main.js": "/shuiguo-3-website/static/js/runtime-main.9cb1040a.js",
+    "runtime-main.js.map": "/shuiguo-3-website/static/js/runtime-main.9cb1040a.js.map",
+    "static/js/2.f26ac9b7.chunk.js": "/shuiguo-3-website/static/js/2.f26ac9b7.chunk.js",
+    "static/js/2.f26ac9b7.chunk.js.map": "/shuiguo-3-website/static/js/2.f26ac9b7.chunk.js.map",
+    "index.html": "/shuiguo-3-website/index.html",
+    "static/css/main.9c0c52cc.chunk.css.map": "/shuiguo-3-website/static/css/main.9c0c52cc.chunk.css.map",
+    "static/js/2.f26ac9b7.chunk.js.LICENSE.txt": "/shuiguo-3-website/static/js/2.f26ac9b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb1040a.js",
+    "static/js/2.f26ac9b7.chunk.js",
+    "static/css/main.9c0c52cc.chunk.css",
+    "static/js/main.8b01503c.chunk.js"
+  ]
+}
